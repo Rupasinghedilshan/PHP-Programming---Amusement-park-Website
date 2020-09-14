@@ -1,0 +1,38 @@
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+/*header*/
+nav {
+	background-color:#F90B3F;
+	height: 56px;
+	font-weight: 450;
+}
+
+nav button {
+	color:white;
+	border-color: white;
+}
+
+nav ul li a {
+	color:WHITE;
+	font-size:13px;
+}
+#brand-image{
+	height: 65px;
+	width: 160PX;
+}
+
+
+@media screen and (max-width: 767px) {
+    #myFooter {
+        text-align: center;
+    }
+}

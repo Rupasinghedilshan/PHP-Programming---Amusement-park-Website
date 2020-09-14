@@ -1,0 +1,32 @@
+body {
+  	background: #FFFFFF;	
+	padding: 0px;
+	margin: 0px;
+}
+
+
+/*header*/
+nav {
+	background-color:#F90B3F;
+	height: 56px;
+	font-weight: 450;
+}
+
+nav button {
+	color:white;
+	border-color: white;
+}
+
+nav ul li a {
+	color:WHITE;
+	font-size:13px;
+}
+#brand-image{
+	height: 65px;
+	width: 160PX;
+}
+
+
+
+
+

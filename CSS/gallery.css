@@ -1,0 +1,77 @@
+body {
+  	background: #473F3F;	
+	padding: 0px;
+	margin: 0px;
+}
+
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+/*header*/
+nav {
+	background-color:#F90B3F;
+	height: 56px;
+	font-weight: 450;
+}
+
+nav button {
+	color:white;
+	border-color: white;
+}
+
+nav ul li a {
+	color:WHITE;
+	font-size:13px;
+}
+
+#brand-image{
+	height: 65px;
+	width: 160PX;
+}
+
+
+
+
+/*album start*/
+
+.album {
+  	min-height: 30rem; 
+  	padding-top: 1rem;
+  	padding-bottom: 1rem;
+  	background-color:white;
+}
+
+.card {
+  	float: left;
+  	width: 33.333%;
+	height: 250px;
+  	padding: .4rem;
+  	margin-bottom: 0rem;
+  	border: 0;
+	background:aliceblue;
+}
+
+.card > img {
+  	margin-bottom: .60rem;
+}
+
+.card-text {
+  	font-size: 85%;
+}
+
+/* Pagination */
+.pagination{
+	display:block;
+	width:100%;
+	text-align:center;
+	
+}
+
+
+
+
+

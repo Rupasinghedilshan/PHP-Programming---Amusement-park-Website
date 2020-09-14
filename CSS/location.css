@@ -1,0 +1,47 @@
+
+
+/* CSS Document */
+body {
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	font-size: 15px;
+	line-height: 1.5;
+	padding: 0;
+	margin: 0;
+
+}
+
+
+/*header*/
+nav {
+	background-color:#F90B3F;
+	height: 56px;
+	font-weight: 450;
+}
+
+nav button {
+	color:white;
+	border-color: white;
+}
+
+nav ul li a {
+	color:WHITE;
+	font-size:13px;
+}
+
+#brand-image{
+	height: 65px;
+	width: 160PX;
+}
+
+
+
+
+/*map*/
+.section {
+	widows:auto;
+	padding-top: px;
+	margin: 0px;
+	
+}
+
+

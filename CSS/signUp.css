@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    background-size: cover;
+ }
+
+#brand-image{
+	height: 65px;
+	width: 160PX;
+}
+
+
+login
+ .aa{
+	  width: 500px;
+	  height: 620px;
+	  background-color: rgba(0,6,0,1.2);
+	  margin: 0 auto;
+	  margin-top: 40px;
+	  padding-top: 10px;
+	  align-content: center;
+	  border-color: 30px;
+	  color:darkgrey;
+	  font-weight: bolder;
+	  font-size: 18px;
+ }
+	 
+ .aa input[type="text"]{
+	  width: 400px;
+	  height: 35px;
+	  border:0px;
+	  border-radius: 5px;
+	  padding-left: 5px;
+	 }
+
+
+ .aa input[type="text"]{
+	  width: 400px;
+	  height: 35px;
+	  border:0px;
+	  border-radius: 5px;
+	  padding-left: 5px;
+	 }
+
+
+.aa input[type="email"]{
+	  width: 400px;
+	  height: 35px;
+	  border:0px;
+	  border-radius: 5px;
+	  padding-left: 5px;
+	 }
+
+
+ .aa input[type="password"]{
+	  width: 400px;
+	  height: 35px;
+	  border:0px;
+	  border-radius: 5px;
+	  padding-right: 5px;
+ }
+
+
+.aa input[type="password"]{
+	  width: 400px;
+	  height: 35px;
+	  border:0px;
+	  border-radius: 5px;
+	  padding-left: 5px;
+	 }
+	
+
+/*footer*/
+.footer {
+      width: auto;
+	  height: 30px;
+	  background: #252323;
+	  color: aliceblue;
+	  margin-bottom: 0px;
+}
+
+
+
+	
+	
+
+
+.Loginbtn:hover{
+	background-color: #172D92;
+}
